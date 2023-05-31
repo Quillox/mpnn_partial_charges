@@ -30,4 +30,3 @@ pip install rdkit
 
 [Deep mind](https://github.com/deepmind/graph_nets)
 
-[Deep Graph Library](https://www.dgl.ai/)
